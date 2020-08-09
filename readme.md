@@ -46,10 +46,10 @@
   - VQA: (paper with code) https://paperswithcode.com/task/visual-question-answering
     
 ## :floppy_disk: Dataset
-* [VQA Dataset](#Dataset)
-     * [General VQA](#General-VQA) 
-     * [Text-VQA](#textVQA)
-     * [Reasoning/External Knowledge tasks](#EK-task)
+* VQA Dataset
+     * General VQA
+     * Text-VQA
+     * Reasoning/External Knowledge tasks](#EK-task
           - VCR (11/2018)
           - Visual Entailment(2019)
           - GQA (****new metrics)
@@ -58,7 +58,7 @@
           - Referring Expression
           - NLVR2 (2018)
 
-     * [Explainable/Grounding Image Captioning/VQA](#Explainable)
+     * Explainable/Grounding Image Captioning/VQA
         - Grounding for image captioning (referring expression)
           - Flickr30K entities
           - Visual Genome
@@ -71,13 +71,13 @@
           - Visual7W 
           - VQA-E
 ## :pencil2: Algorithm
-   * [Image Feature preparation](#Image-Feature)
+   * Image Feature preparation
       - Show, Attend and Tell  (2015/5)
       - SAN (2015/11)
       - BUTD (2017/7)
       - Grid Feature (2020/1)
       - Pixel-BERT (2020/4)
-   * [Enhanced multimodal fusion](#Multimodal-fusion)
+   * Enhanced multimodal fusion
       - Bilinear pooling: how to fuse two vectors into one
         - MCB (2016/6)
         - MLB (2016/10)
@@ -123,5 +123,5 @@
         - Prob-NMN, (2019/2)
         - MMN (2019/10)√
 
-   * [External Knowledge Algorithm](#External-Knowledge)
+   * External Knowledge Algorithm
       - Mucko (1/2020)
