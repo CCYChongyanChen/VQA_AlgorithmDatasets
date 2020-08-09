@@ -26,30 +26,44 @@
   
 |  Algorithm | Accuracy  |
 |  ----  | ----  |
-|  GridFeat+MoVie | 76.36%  |
-| DL-61 (BGN)  | 76.08% |
+|  GridFeat+MoVie | 76.36  |
+| DL-61 (BGN)  | 76.08 |
 | Renaissance@DamoNLP	|76.02|
 | VILLA (adversarial training) based on UNITER|75.9|
 | Ensemble LXMERT, VILBERT, VisualBERT |75.15|
-| Pixel-BERT x152 |paper: 74.45%, 74.55%|
+| Pixel-BERT x152 |74.45%|
 |	Oscar 	|73.61,73.82|
 |UNITER 	|73.82(grid feature)|
 |	LXMERT	|72.42,72.54|
 |	VLBERT	|71.79, 72.22|
-|	Pixel-BERT r50 |test-dev 71.35%, test-std: 71.42%|
-|	MCAN		|70.93/70.63|
-|	VisualBERT 	|70.80/70.55, 71.00|
-|	ViLBERT	|70.55, 70.92|
-|	BUTD		|65.32, 65.67|
-|	MUTAN		|60.17%|
+|	Pixel-BERT r50 |71.35|
+|	MCAN		|70.93|
+|	VisualBERT 	|71.00|
+|	ViLBERT	|70.92|
+|	BUTD		|65.67|
+|	MUTAN		|60.17|
 
-  - VQA: (paper with code) https://paperswithcode.com/task/visual-question-answering
-    
+- VizWiz leaderboard: https://evalai.cloudcv.org/web/challenges/challenge-page/523/leaderboard/1459#leaderboardrank-1
+|  Algorithm | Accuracy  |
+|  ----  | ----  |
+|  HSSLab | 56.33  |
+|  LXMBERT | 55.4  |
+|  Pythia | 54.72  |
+|  Gridfeature+MCAN | 54.17  |
+
 ## :floppy_disk: Dataset
 * VQA Dataset
      * General VQA
+          - COCO
+          - VQAv1, VQAv2
+          - VQA Dialog
+
      * Text-VQA
-     * Reasoning/External Knowledge tasks](#EK-task
+          - TextVQA
+          - Scene Text VQA
+          - OCR-VQA (toy-sized dataset, containing book/poster cover)
+
+     * Reasoning/External Knowledge tasks
           - VCR (11/2018)
           - Visual Entailment(2019)
           - GQA (****new metrics)
