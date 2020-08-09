@@ -63,7 +63,14 @@
           - TextVQA
           - Scene Text VQA
           - OCR-VQA (toy-sized dataset, containing book/poster cover)
-
+     * Re-ask VQA 
+          - Inverse Visual QA (iVQA)
+          - VQA-Rehrasings
+          - VQA-LOL
+          - VQA- introspect
+     * Re-image VQA
+          - VQAv2
+          - VQA-CP
      * Reasoning/External Knowledge tasks
           - VCR (11/2018)
           - Visual Entailment(2019)
