@@ -20,6 +20,7 @@
 ## :green_book: Tutorials
   - Sigir2020: https://www.avishekanand.com/talk/sigir20-tute/
   - CVPR2020 (Recent Advances in Vision-and-Language Research): https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/
+  - KDD 2020 (Scene Graph) https://suitclub.ischool.utexas.edu/IWKG_KDD2020/slides/Shih-Fu.pdf
 
 ## :chart_with_upwards_trend: Leaderboard
   - VQAv2 leaderboard: https://visualqa.org/roe.html
