@@ -148,4 +148,4 @@
 
    * External Knowledge Algorithm
       - Mucko (1/2020)
-      - [KRISP (2020)]https://arxiv.org/pdf/2012.11014.pdf
+      - [KRISP (2020)](https://arxiv.org/pdf/2012.11014.pdf)
