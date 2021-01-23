@@ -91,8 +91,11 @@
           - Google Referring expression
           - PhraseCut
         - grounding for VQA
-          - Visual7W 
-          - VQA-E
+          - Visual7W (2016) 
+          - Visual Genome (2016)
+          - VQA-HAT(2016)
+          - VQA-X(2018)
+          - VQA-E(2018)
 ## :pencil2: Algorithm
    * Image Feature preparation
       - Show, Attend and Tell  (2015/5)
