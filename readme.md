@@ -92,15 +92,16 @@
           - PhraseCut
         - grounding for VQA
           - Visual7W (2016) 
-          - Visual Genome (2016)
+          - Visual Genome (2016) | [paper](http://visualgenome.org/static/paper/Visual_Genome.pdf) | [website](http://visualgenome.org/)
           - VQA-HAT(2016)
+          - VQS (2017) | [paper](https://arxiv.org/pdf/1708.04686.pdf)
           - VQA-X(2018)
-          - VQA-E(2018)
+          - VQA-E(2018) 
 ## :pencil2: Algorithm
    * Image Feature preparation
       - Show, Attend and Tell  (2015/5)
       - SAN (2015/11)
-      - BUTD (2017/7)
+      - BUTD (2017/7) | [paper](https://arxiv.org/pdf/1707.07998.pdf)
       - Grid Feature (2020/1)
       - Pixel-BERT (2020/4)
    * Enhanced multimodal fusion
