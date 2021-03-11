@@ -52,6 +52,8 @@
 |  LXMBERT | 55.4  |
 |  Pythia | 54.72  |
 |  Gridfeature+MCAN | 54.17  |
+|  VilBERT | 52  |
+|  SAN  | 47.3  |
 
 ## :floppy_disk: Dataset
 * VQA Dataset
