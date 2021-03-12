@@ -66,6 +66,7 @@
           - TextVQA
           - Scene Text VQA
           - OCR-VQA (toy-sized dataset, containing book/poster cover)
+     * Doc-VQA
      * Re-ask VQA 
           - Inverse Visual QA (iVQA)
           - VQA-Rehrasings
@@ -74,15 +75,18 @@
      * Re-image VQA
           - VQAv2
           - VQA-CP
-     * Reasoning/External Knowledge tasks
+     * VQA reasoning
           - VCR (11/2018)
           - Visual Entailment(2019)
           - GQA
-          - OK-VQA
           - CLEVER
           - Referring Expression
           - NLVR2 (2018)
-
+     * VQA with External Knowledge
+          - OK-VQA
+          - FVQA
+          - KBVQA
+          - KVQA (2019)
      * Explainable/Grounding Image Captioning/VQA
         - Grounding for image captioning (referring expression)
           - Flickr30K entities
