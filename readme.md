@@ -28,12 +28,12 @@
 |  Algorithm | Accuracy  |
 |  ----  | ----  |
 |  GridFeat+MoVie | 76.36  |
-| DL-61 (BGN)  | 76.08 |
+| [DL-61 (BGN)](https://arxiv.org/pdf/1907.09815.pdf)  | 76.08 |
 | Renaissance@DamoNLP	|76.02|
-| VILLA (adversarial training) based on UNITER|75.9|
+| [VILLA (adversarial training) based on UNITER](https://arxiv.org/pdf/2006.06195.pdf)|75.9|
 | Ensemble LXMERT, VILBERT, VisualBERT |75.15|
 | Pixel-BERT x152 |74.45|
-|	Oscar 	|73.82|
+|	Oscar|[paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar)	|73.82|
 |UNITER (+grid feature)	|73.82|
 |	LXMERT	|72.54|
 |	VLBERT	|72.22|
