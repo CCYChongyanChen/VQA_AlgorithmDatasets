@@ -33,7 +33,7 @@
 | [VILLA (adversarial training) based on UNITER](https://arxiv.org/pdf/2006.06195.pdf)|75.9|
 | Ensemble LXMERT, VILBERT, VisualBERT |75.15|
 | Pixel-BERT x152 |74.45|
-|	Oscar|[paper](https://arxiv.org/abs/2004.06165) [code](https://github.com/microsoft/Oscar)	|73.82|
+|	Oscar([paper](https://arxiv.org/abs/2004.06165), [code](https://github.com/microsoft/Oscar))	|73.82|
 |UNITER (+grid feature)	|73.82|
 |	LXMERT	|72.54|
 |	VLBERT	|72.22|
