@@ -27,6 +27,7 @@
   
 |  Algorithm | Accuracy  |
 |  ----  | ----  |
+|  VinVL (MSR+MS Cog Svcs., X10 models ) ([paper](https://arxiv.org/pdf/2101.00529.pdf),[code](https://github.com/pzzhang/VinVL)) | 77.45 |  
 |  GridFeat+MoVie | 76.36  |
 | [DL-61 (BGN)](https://arxiv.org/pdf/1907.09815.pdf)  | 76.08 |
 | Renaissance@DamoNLP	|76.02|
