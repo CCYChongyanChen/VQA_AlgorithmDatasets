@@ -114,6 +114,8 @@
       - BUTD (2017/7) | [paper](https://arxiv.org/pdf/1707.07998.pdf)
       - Grid Feature (2020/1)
       - Pixel-BERT (2020/4)
+      - SOHO(2021/4)
+      - VinVL(2021/4)
    * Enhanced multimodal fusion
       - Bilinear pooling: how to fuse two vectors into one
         - MCB (2016/6)
@@ -129,7 +131,7 @@
         - DAN (2016/11)
         - DCN (2018/4)
         - BAN (2018/5)
-      - intra-modal attention(Relational Reasoning):
+      - pretraining:
         - UNITER
         - ViLBERT
         - LXMERT	
@@ -137,6 +139,12 @@
         - VisualBERT
         - Unicoder-VL
         - VL-BERT
+        - ERINE-ViL (AAAI, 2021): Scene Graph Prediction
+        - Oscar
+        - UNIMO (ACL, 2021)
+      - End-to-End pretraining:
+        - SOHO (CVPR, 2020/4)
+        - ViLT (2021, ICML)
       - graph attention/graph Convolutional Network
         - Graph-Structured, (2016/9)
         - Relation Network, (2017/6)
