@@ -52,7 +52,8 @@
 
 |  Algorithm | Accuracy  |
 |  ----  | ----  |
-|  HSSLab | 56.33  |
+|  [Alibaba](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop_2021/videos/Enhancing_Textual_Cues_VQA_5-minute.mp4) | 61.81  |
+|  [HSSLab](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop_2021/videos/VIZWIZ_VQA_HSSLAB_INSPUR_Presentation.mp4)| 60.1  |
 |  LXMBERT | 55.4  |
 |  Pythia | 54.72  |
 |  Gridfeature+MCAN | 54.17  |
