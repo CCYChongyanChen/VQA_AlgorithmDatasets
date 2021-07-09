@@ -60,6 +60,17 @@
 |  VilBERT | 52  |
 |  SAN  | 47.3  |
 
+- Text VQA leaderboard (2021):https://eval.ai/web/challenges/challenge-page/874/leaderboard/2313
+
+|  Algorithm | Accuracy  |
+|  ----  | ----  |
+|  Mia | 73.67  |
+|  SunLan | 65.86  |
+|  [RUArt-M4C](https://arxiv.org/pdf/2010.12917v1.pdf) | 48.1 |
+|  M4C | 39.01  |
+|  LoRRA | 27.63  |
+
+
 ## :floppy_disk: Dataset
 * VQA Dataset
      * General VQA
