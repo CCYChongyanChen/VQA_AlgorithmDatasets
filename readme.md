@@ -66,7 +66,9 @@
 |  ----  | ----  |
 |  Mia | 73.67  |
 |  SunLan | 65.86  |
+|  Summer | 59.16 |
 |  [RUArt-M4C](https://arxiv.org/pdf/2010.12917v1.pdf) | 48.1 |
+|  ST-VQA|45.66 |
 |  M4C | 39.01  |
 |  LoRRA | 27.63  |
 
