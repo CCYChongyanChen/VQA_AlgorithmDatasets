@@ -60,7 +60,7 @@
 |  VilBERT | 52  |
 |  SAN  | 47.3  |
 
-- Text VQA leaderboard (2021):https://eval.ai/web/challenges/challenge-page/874/leaderboard/2313
+- Text VQA leaderboard (2022):https://eval.ai/web/challenges/challenge-page/874/leaderboard/2313
 
 |  Algorithm | Accuracy  |
 |  ----  | ----  |
@@ -68,6 +68,7 @@
 |  SunLan | 65.86  |
 |  Summer | 59.16 |
 |[Microsoft](https://github.com/microsoft/TAP)|54.71|
+|[TAG](https://github.com/HenryJunW/TAG)|53.69|
 |  ST-VQA|45.66 |
 |  M4C | 39.01  |
 |  [RUArt-M4C](https://arxiv.org/pdf/2010.12917v1.pdf) | 33.54 |
