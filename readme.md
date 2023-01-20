@@ -88,12 +88,13 @@
           - Scene Text VQA
           - OCR-VQA (toy-sized dataset, containing book/poster cover)
      * Doc-VQA
-     * Re-ask VQA 
+     * Rehrase VQA question
           - Inverse Visual QA (iVQA)
           - VQA-Rehrasings
           - VQA-LOL
           - VQA- introspect
-     * Re-image VQA
+          - rehrase ambiguous questions| [2022 paper](https://arxiv.org/abs/2211.07516)
+     * Replace VQA images
           - VQAv2
           - VQA-CP
      * VQA reasoning
@@ -124,6 +125,21 @@
           - VQS (2017) | [paper](https://arxiv.org/pdf/1708.04686.pdf)
           - VQA-X(2018)
           - VQA-E(2018) 
+          - TextVQA-X
+          - GQA
+          - CLEVR-Ans
+          - VizWiz-VQA-Grounding (2022) | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Grounding_Answers_for_Visual_Questions_Asked_by_Visually_Impaired_People_CVPR_2022_paper.html)
+          
+     * Multilingual 
+        - Multilingual VQA
+          - xGQA
+          - MaXM | [paper](https://arxiv.org/pdf/2209.05401.pdf)
+        - Image captioning
+          - crossmodal3600
+       
+          
+          
+          
 ## :pencil2: Algorithm
    * Image Feature preparation
       - Show, Attend and Tell  (2015/5)
@@ -188,3 +204,6 @@
    * External Knowledge Algorithm
       - Mucko (1/2020)
       - [KRISP (2020)](https://arxiv.org/pdf/2012.11014.pdf)
+      
+      
+   
